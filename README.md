@@ -1,4 +1,4 @@
-# Desafios Dio Basecamp JavaScript
+# Desafios Dio Basecamp JavaScript - Jogo da Velha
 
 ## Jogo da Velha: HTML, CSS, JavaScript
 ### DESCRIÇÃO
